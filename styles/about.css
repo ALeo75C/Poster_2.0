@@ -1,0 +1,28 @@
+.ab {
+  width: 80vw;
+
+  font-size: 35px;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+h4 {
+  font-family: 'Oswald', sans-serif;
+}
+.store {
+  display: flex;
+
+  margin-top: 16vh;
+
+  justify-content: space-around;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+
+  width: 300px;
+
+  justify-content: center;
+  align-items: center;
+}

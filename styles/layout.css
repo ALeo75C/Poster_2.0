@@ -1,0 +1,13 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+}
+article {
+  background-image: url(../images/back_1440.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+section {
+  height: 90vh;
+  padding: 5vw;
+}

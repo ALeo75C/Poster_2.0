@@ -1,0 +1,29 @@
+nav.header {
+  position: fixed;
+  right: 0;
+
+  display: flex;
+  flex-direction: column;
+
+  width: 108px;
+  height: 100vh;
+
+  background-color: #feffab;
+
+  align-items: center;
+  justify-content: space-around;
+}
+.header ul {
+  display: flex;
+  flex-direction: column;
+
+  height: 150px;
+  padding: 9px;
+
+  justify-content: space-between;
+  align-items: center;
+}
+nav img {
+  width: 100px;
+  height: 100px;
+}

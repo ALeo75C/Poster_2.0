@@ -1,0 +1,57 @@
+section.weather {
+  padding-left: 5vw;
+
+  background: url(../images/F2.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.weather nav {
+  position: absolute;
+  top: 65px;
+  left: 79px;
+
+  display: flex;
+
+  width: 637px;
+  height: 50px;
+
+  border-radius: 50px;
+  background: #FFFFFF;
+  box-shadow: 4px 6px 11px rgba(0, 0, 0, 0.3);
+
+  align-items: center;
+  justify-content: center;
+}
+.border {
+  width: 3px;
+  height: 40px;
+
+  border-radius: 50px;
+}
+.yelow {
+  background: #FAFD00;
+}
+.blue {
+  background: #00A6FB;
+}
+.weather ul {
+  display: flex;
+
+  width: 400px;
+
+  font-family: Oswald;
+  font-size: 24px;
+
+  justify-content: space-between;
+  align-items: center;
+}
+.weather h1 {
+  width: 70vw;
+  margin-top: 40vh;
+  padding-left: 10vw;
+
+  text-align: end;
+
+  font-family: 'Oswald', sans-serif;
+  font-size: 5vw;
+}
